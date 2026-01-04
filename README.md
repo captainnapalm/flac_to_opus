@@ -76,4 +76,4 @@ Example:
 
 ## License
 
-MIT License
+GNU GPLv3 License
