@@ -3,12 +3,15 @@
 A robust, high-performance **FLAC to Opus** batch conversion script for
 Linux, designed for **very large music libraries**.
 
-This script: - Converts FLAC files to Opus (`opusenc`) - Preserves
-directory structure - Runs **artist-by-artist**, in **alphabetical
-order** - Uses **all CPU cores by default** - Safely handles filenames
-with spaces, Unicode, and special characters - Normalizes **metadata and
-filenames to ASCII** - Supports **resume**, **dry-run**, and **database
-rebuild** - Produces clean, timestamped logs with per-artist summaries
+This script: 
+* Converts FLAC files to Opus (`opusenc`)
+* Preserves directory structure
+* Runs **artist-by-artist**, in **alphabetical order**
+* Uses **all CPU cores by default**
+* Safely handles filenames with spaces, Unicode, and special characters
+* Normalizes **metadata and filenames to ASCII**
+* Supports **resume**, **dry-run**, and **database rebuild**
+* Produces clean, timestamped logs with per-artist summaries
 
 ------------------------------------------------------------------------
 
