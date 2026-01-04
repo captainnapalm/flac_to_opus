@@ -56,6 +56,7 @@ Example:
 
 ## Options
 
+```
   Option                     Description
   -------------------------- ----------------------------------------------------
   --dry-run                  Show what would be converted without writing files
@@ -63,7 +64,7 @@ Example:
   --jobs N                   Override number of parallel jobs
   --rebuild-db               Rebuild success database
   --continue-after-rebuild   Continue converting after rebuild
-
+```
 ------------------------------------------------------------------------
 
 ## Resume & Logging
